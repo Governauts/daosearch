@@ -18,7 +18,7 @@ List and categorize any research organizations that use blockchain technology, e
 
 1. Establish our team’s understanding of a “research DAO” in order to motivate this research project and invite contributions from anyone.
 2. Survey / review landscape of various research communities, and explore ways research DAOs might be involved.
-3. Add updates to this repository and create a simple website using GitHub pages + wiki, along with clear guidelines for how to participate.
+3. Add to this repository and create a simple website using GitHub pages + wiki, along with clear guidelines for how to participate.
 4. Producing data visualizations that help anyone understand the data / value flows and their potential impact.
 5. Build solutions and tooling specifically designed to benefit Research DAOs.
 
