@@ -31,6 +31,7 @@ Leverage various DAO frameworks and services:
 - [Messari Governor](https://messari.io/governor)
 - [Tally](http://withtally.com)
 - [Boardroom](https://www.boardroom.info)
+- [DAOlist](https://daolist.fyi)
 
 ### Participate
 
